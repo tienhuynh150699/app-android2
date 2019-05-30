@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBrowser3</string>
+    <string name="http">http://</string>
+    <string name="btnBack">←</string>
+    <string name="btnForward">→</string>
+    <string name="btnGo">Go</string>
+</resources>
